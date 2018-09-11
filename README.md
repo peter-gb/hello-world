@@ -1,5 +1,5 @@
 # hello-world
-This is my first github 
+This is my github adventure 
 
 # here's some stuff
 
