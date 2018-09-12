@@ -1,4 +1,5 @@
 # hello-world
+This is my github journey
 
 # here's some stuff
 
